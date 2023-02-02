@@ -3,3 +3,6 @@
 3. git commit -m "comment" 
 4. git log / git log --oneline - информация о комитах
 5. git push [rep_link] [branch_name]
+
+git reset [files] - удаляет файл из stage
+git diff
